@@ -22,6 +22,20 @@ html{
     height: 20px;
     background-color: red;
     border-radius: 50%;
+    
+}
+#gmailogo{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.searchbarimages{
+width: 20px;
+height: 20px;
+border-radius:50% ;
+}
+#voice{
+cursor: pointer;
 }
 
 #middle{
@@ -85,10 +99,11 @@ border: 1px solid #cfc6c6;
 .languages{
     margin-left: 10px;
 }
-#footer-content{
+#footer-content1{
     width: 100%;
     height: 20px;
     background-color:rgb(231, 231, 231);
+    
 }
 a{
     text-decoration: none;
@@ -110,4 +125,17 @@ align-items: center;
 }
 #voice{
     right: 15px;
+}
+#footer{
+    display: flex;
+}
+#footer-content2{
+    display: flex;
+    flex-direction: row;
+    background-color:rgb(231, 231, 231);
+}
+.footerlinks{
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
 }
