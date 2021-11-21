@@ -49,8 +49,9 @@ body{
     }
     #logo img{
     margin-bottom: 10px;
-    height: 110px;
+    height: 100px;
     cursor: pointer;
+    margin-left: 10px;
     
     }
     #searchBarContainer{
